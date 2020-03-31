@@ -1,0 +1,2 @@
+class PolicyDoesNotExistException(Exception):
+    pass

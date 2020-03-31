@@ -1,0 +1,6 @@
+# runtime = Python3.6.5
+
+tensorflow
+numpy
+gym
+matplotlib
