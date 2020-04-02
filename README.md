@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning
 #### Frontiers of Artificial Intelligence
-####### By Mohit Sewak
+###### -  By Mohit Sewak
 
 ## Code for the book 
  - Deep Reinforcement Learning - Frontiers of Artificial Intelligence
